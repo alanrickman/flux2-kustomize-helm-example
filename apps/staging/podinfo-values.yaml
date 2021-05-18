@@ -13,3 +13,5 @@ spec:
     ingress:
       hosts:
         - podinfo.staging
+    image:
+      tag: 5.2.0
